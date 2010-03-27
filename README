@@ -1,0 +1,76 @@
+This is an input-output puzzle program.
+Below is a sample run of the program.
+Try to implement this yourself before having a look at the source code.
+Have fun.
+
+iopuzzle $ gcc -Wall -Wextra -ansi -pedantic -Werror iopuzzle.c
+iopuzzle $ ./a.out
+0
+1
+1
+2
+2
+2
+2
+iopuzzle $ ./a.out | cat
+0
+1
+2
+0
+1
+2
+0
+1
+2
+0
+1
+2
+0
+1
+2
+0
+1
+2
+0
+1
+2
+0
+1
+2
+iopuzzle $ ./a.out
+0
+1
+1
+2
+2
+2
+2
+iopuzzle $ ./a.out | cat
+0
+1
+2
+0
+1
+2
+0
+1
+2
+0
+1
+2
+0
+1
+2
+0
+1
+2
+0
+1
+2
+0
+1
+2
+iopuzzle $
+
+
+
